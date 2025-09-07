@@ -45,7 +45,7 @@
 
 #### 📊 Sales Data Dashboard
 > Built with **Power BI, Python, and SQL** to analyze real sales trends.  
-[🔗 View Repo](https://github.com/Pushkarag/sales-dashboard)
+[🔗 View Repo](https://github.com/Pushkarag/SUperstore-data-visuals)
 
 ---
 
