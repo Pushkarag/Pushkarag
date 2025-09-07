@@ -5,13 +5,13 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="[https://www.linkedin.com/in/pushkar-agarwal-5945b2258/]" target="_blank">
+  <a href="https://www.linkedin.com/in/pushkar-agarwal-5945b2258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:pushkaragarwal10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+ 
 </p>
 
 ---
@@ -29,6 +29,34 @@
 
 ---
 
+### 🚀 Featured Projects
+
+#### 🩺 MediQuick – Instant Medical Delivery Platform
+> A smart solution for delivering medicines instantly using Flask + SQL.  
+[🔗 View Repo](https://github.com/Pushkarag/mediquick)
+
+---
+
+#### ✅ To-Do List App with Flask
+> A simple yet powerful task manager app with authentication & SQLite.  
+[🔗 View Repo](https://github.com/Pushkarag/todo-flask-app)
+
+---
+
+#### 📊 Sales Data Dashboard
+> Built with **Power BI, Python, and SQL** to analyze real sales trends.  
+[🔗 View Repo](https://github.com/Pushkarag/sales-dashboard)
+
+---
+
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pushkaragarwal&sh
+  <img src="https://github-readme-stats.vercel.app/api?username=pushkaragarwal&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkaragarwal&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+### ⚡ Fun Quote
+<p align="center">💡 "Data is the new oil, but Python is the refinery." </p>
