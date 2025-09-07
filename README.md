@@ -1,53 +1,34 @@
-# 👋 Hi, I'm Pushkar Agarwal  
-
-💻 **B.Tech CSE (AI) | Aspiring Data Analyst & ML Engineer**  
-🚀 Passionate about Data Science, Machine Learning, and Full-Stack Development  
+<h1 align="center">Hi 👋, I'm Pushkar Agarwal</h1>
+<h3 align="center">A passionate Data Analyst & AI/ML Enthusiast</h3>
 
 ---
 
-## 🔥 Skills & Tools
-- 🐍 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
-- 📊 Power BI | SQL | Excel  
-- 🤖 Machine Learning | Deep Learning Basics  
-- 🌐 Flask | Django | HTML | CSS | JavaScript  
-- ☁️ Git | GitHub | MySQL  
+### 🌐 Connect with me
+<p align="center">
+  <a href="[https://www.linkedin.com/in/pushkar-agarwal-5945b2258/]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:pushkaragarwal10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📌 Featured Projects
-- 🏥 **MediQuick** – Instant Medical Delivery Platform  
-- 📊 **Sales Dashboard (Power BI)** – Insights for a US-based company  
-- ✅ **To-Do List App (Flask, SQLite, SQLAlchemy, Flask-Login)**  
-- 🤖 **30 Days ML Challenge** – Daily ML algorithms + projects  
+### 🛠 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
-![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushkaragarwal&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkaragarwal&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([(https://www.linkedin.com/in/pushkar-agarwal-5945b2258/)])  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&lines=Data+Analyst+%7C+ML+Enthusiast;Full+Stack+Learner;Lifelong+Learner)](https://git.io/typing-svg)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pushkaragarwal&theme=radical)
-
-
-
-<!--
-**Pushkarag/Pushkarag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pushkaragarwal&sh
