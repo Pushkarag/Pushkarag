@@ -33,13 +33,13 @@
 
 #### 🩺 MediQuick – Instant Medical Delivery Platform
 > A smart solution for delivering medicines instantly using Flask + SQL.  
-[🔗 View Repo](https://github.com/Pushkarag/mediquick)
+[🔗 View Repo](https://github.com/Pushkarag/MediQuick)
 
 ---
 
 #### ✅ To-Do List App with Flask
 > A simple yet powerful task manager app with authentication & SQLite.  
-[🔗 View Repo](https://github.com/Pushkarag/todo-flask-app)
+[🔗 View Repo](https://github.com/Pushkarag/TO-DO-LIST-APP-)
 
 ---
 
